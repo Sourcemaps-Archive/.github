@@ -1,17 +1,16 @@
 ---
 name: Archive Request
 about: Suggest a website or specific JS bundle for sourcemap archiving.
-title: "[REQUEST] - <Site Name>"
-labels: 'needs-triage'
+title: "[REQUEST] - "
+labels: needs-triage
 assignees: ''
-
 ---
 
 ### Website URL
 Please provide the main URL:
 
 ### Specific Bundle URLs (Optional)
-If you have identified specific `.map` files, list them here:
+If you have identified specific .map files, list them here:
 1. 
 2. 
 
