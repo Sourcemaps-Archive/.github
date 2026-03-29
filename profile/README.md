@@ -10,5 +10,8 @@ We are a dedicated collective focused on the preservation and archiving of front
 ### 🛠️ How to Contribute
 If you have found a source map that needs archiving, please open an issue in our `archive-requests` repository.
 
+### 🛠️ How to Contribute Privately
+Send us an email ("GhostyTongue@gmail.com")
+
 ---
 *Preserving the "Why" behind the "What" in frontend development.*
